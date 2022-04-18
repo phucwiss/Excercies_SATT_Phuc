@@ -1,0 +1,14 @@
+[INFO ] 17-04-2022 21:53:55 [main] Log - Navigate to QA Railway Website
+[INFO ] 17-04-2022 21:53:55 [main] Log - Click on login tab
+[INFO ] 17-04-2022 21:53:56 [main] Log - Login with valid account
+[INFO ] 17-04-2022 21:53:58 [main] Log - Verify that welcome user display correctly
+[INFO ] 17-04-2022 21:54:46 [main] Log - Navigate to QA Railway website
+[INFO ] 17-04-2022 21:54:46 [main] Log - Maximize browser
+[INFO ] 17-04-2022 21:54:46 [main] Log - Click on login tab
+[INFO ] 17-04-2022 21:54:47 [main] Log - Login with valid account
+[INFO ] 17-04-2022 21:54:49 [main] Log - Verify that ErrorMessage appears
+[INFO ] 17-04-2022 22:24:22 [main] Log - Navigate to QA Railway website
+[INFO ] 17-04-2022 22:24:22 [main] Log - Maximize browser
+[INFO ] 17-04-2022 22:24:22 [main] Log - Click on login tab
+[INFO ] 17-04-2022 22:24:25 [main] Log - Login with valid account
+[INFO ] 17-04-2022 22:24:26 [main] Log - Verify that ErrorMessage appears

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression">
+    <parameter name="browser" value="chrome"/>
+    <test name="Reg">
+        <classes>
+<!--            <class name="TestCase.TC01"/>-->
+            <class name="TestCase.TC02"/>
+<!--            <class name="TestCase.TC03"/>-->
+<!--            <class name="TestCase.TC04"/>-->
+<!--            <class name="TestCase.TC05"/>-->
+<!--            <class name="TestCase.TC06"/>-->
+<!--            <class name="TestCase.TC07"/>-->
+<!--            <class name="TestCase.TC09"/>-->
+<!--            <class name="TestCase.TC10"/>-->
+<!--            <class name="TestCase.TC11"/>-->
+<!--            <class name="TestCase.TC14"/>-->
+<!--            <class name="TestCase.TC15"/>-->
+<!--            <class name="TestCase.TC16"/>-->
+        </classes>
+    </test>
+</suite>
+
+<!-- Run Single Tcs, each TCs follow by step by step -->
+
